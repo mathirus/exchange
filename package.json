@@ -26,7 +26,7 @@
     "dependencies": {
         "@saeris/vue-spinners": "^1.0.8",
         "bootstrap-vue": "^2.9.0",
-        "chart.js": "^2.9.3",
+        "chart.js": "^2.9.4",
         "numeral": "^2.0.6",
         "vue-chartkick": "^0.6.0",
         "vue-router": "^3.1.6"
